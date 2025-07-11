@@ -96,9 +96,6 @@
 
 ## 🚀 My Coding Streak Board
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JerishRaj&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerishRaj&theme=github-compact&area=true&hide_border=true&color=00f5a0&line=00f5a0&point=8affc1" />
