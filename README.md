@@ -71,17 +71,22 @@
 
 <p align="center">
 
+  <a href="https://github.com/JerishRaj/Foodie_App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=Foodie_App&theme=dark" />
+  </a>
+
   <a href="https://github.com/JerishRaj/Student_Course_Registration" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=Student_Course_Registration&theme=dark" />
   </a>
 
-  <a href="https://jerishraj.github.io/Sql-Project/" target="_blank">
+  <a href="https://github.com/JerishRaj/Sql-Project" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=Sql-Project&theme=dark" />
   </a>
 
-  <a href="https://github.com/JerishRaj/Food-Delivery-Java" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=Food-Delivery-Java&theme=dark" />
+  <a href="https://github.com/JerishRaj/Money_Management_Tracker" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=Money_Management_Tracker&theme=dark" />
   </a>
+
 </p>
 
 ---
