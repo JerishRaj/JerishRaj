@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h1 align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Jerish+Mary+Sahana!;Java+Full+Stack+Developer;MCA+Graduate+🚀" alt="Typing Animation" />
 </h1>
 
@@ -16,21 +16,21 @@
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="270" alt="Girl Developer GIF" />
 
-- 🎓 MCA Graduate specializing in Java Full Stack Web Development  
-- 💻 Skills: `Java`, `Spring`, `Hibernate`, `MySQL`, `HTML`, `CSS`  
+- 🎓 MCA Graduate with specialization in Java Full Stack Web Development  
+- 💻 Proficient in: `Java`, `Spring`, `Hibernate`, `MySQL`, `HTML`, `CSS`  
 - 🛠️ Tools: `VS Code`, `Eclipse`, `MySQL Workbench`, `Git`, `GitHub`  
-- 🌱 Currently learning backend APIs & Spring Boot  
-- 📍 From Thoothukudi, Tamil Nadu, India  
-- ✨ Bonus: I love crafting elegant UIs and automating the boring stuff!
+- 🌱 Currently exploring REST APIs and Spring Boot  
+- 📍 Based in Thoothukudi, Tamil Nadu, India  
+- ✨ Bonus: Love designing elegant UIs and automating daily workflows!
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/_sahana16_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.linkedin.com/in/jerishmarysahana161002/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:jerishraj25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/_sahana16_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Icon"/></a>
+  <a href="https://www.linkedin.com/in/jerishmarysahana161002/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon"/></a>
+  <a href="mailto:jerishraj25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon"/></a>
 </p>
 
 ---
@@ -38,8 +38,8 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/[YOUR-RESUME-LINK](https://drive.google.com/file/d/1GAJfXs5XMFht4QjLS9bU22pniuxWDg9L/view?usp=drivesdk)" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=googledrive" />
+  <a href="https://raw.githubusercontent.com/JerishRaj/JerishRaj/main/assets/sahanaresume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Download Resume-blue?style=for-the-badge" alt="Resume Button"/>
   </a>
 </p>
 
@@ -49,12 +49,12 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,hibernate,spring" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,hibernate,spring" alt="Tech Stack" />
 </p>
 
 ### 🛠️ Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,cursor" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,cursor" alt="Tools Icons" />
 </p>
 
 ---
@@ -78,6 +78,10 @@
   <a href="https://jerishraj.github.io/Sql-Project/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=Sql-Project&theme=dark" />
   </a>
+
+  <a href="https://github.com/JerishRaj/Food-Delivery-Java" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=Food-Delivery-Java&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -95,7 +99,6 @@
 ---
 
 ## 🚀 My Coding Streak Board
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerishRaj&theme=github-compact&area=true&hide_border=true&color=00f5a0&line=00f5a0&point=8affc1" />
