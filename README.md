@@ -38,7 +38,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/JerishRaj/JerishRaj/main/assets/sahanaresume.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/JerishRaj/JerishRaj/main/assets/jerishmarysahanaresume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Download Resume-blue?style=for-the-badge" alt="Resume Button"/>
   </a>
 </p>
