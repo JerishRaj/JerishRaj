@@ -79,8 +79,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=Student_Course_Registration&theme=dark" />
   </a>
 
-  <a href="https://github.com/JerishRaj/Sql-Project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=Sql-Project&theme=dark" />
+    <a href="https://github.com/JerishRaj/MyPortfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JerishRaj&repo=MyPortfolio&theme=dark" />
   </a>
 
   <a href="https://github.com/JerishRaj/Money_Management_Tracker" target="_blank">
